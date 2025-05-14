@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1746567104 source:c:\users\victor-melo\documents\ulbra\computação gráfica\cidadeexemplo\main.cpp
+	<GL/glut.h>
+	<cmath>
+
